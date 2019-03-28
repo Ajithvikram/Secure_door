@@ -1,0 +1,113 @@
+.secure{
+    background-image: url('./wood.jpg');
+    background-repeat: no-repeat;
+    background-position: fixed;
+    height: 100vh;
+}
+
+.shield{
+    width: 70px;
+    height: 70px;
+}
+
+.h1{
+    font-size: 40px;
+    color: burlywood;
+}
+
+.login{
+    background-color: snow;
+    margin-left: 500px;
+    margin-right: 520px;
+    margin-top: 140px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 3px 3px 3px 3px;
+}
+
+.h2{
+    text-align: center;
+    background-color:rgba(255, 251, 251, 0.904);
+    box-shadow: 1px 1px 1px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.inp1{
+    background-image: url('./man-user.png');
+    padding: 12px 20px 12px 40px;
+    width: 55%;
+    margin-left: 47px;
+    background-color: rgb(241, 239, 239);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    outline-color: transparent;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    background-size: 25px;
+    font-size: 15px;
+}
+
+.pass1{
+    background-image: url('./key.png');
+    padding: 12px 20px 12px 40px;
+    width: 55%;
+    margin-left: 47px;
+    background-color: rgb(241, 239, 239);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    outline-color: transparent;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    background-size: 25px;
+    font-size: 15px;
+}
+
+.passwordImg{
+    width: 20px;
+    height: 20px;
+}
+
+.btn10{
+    outline-color: transparent;
+    border-color: transparent;
+    background-color: transparent;
+}
+
+.hide{
+    margin-left: 50px;
+}
+
+.show{
+    font-size: 15px;
+}
+
+.btn1{
+    padding: 12px 20px 12px 40px;
+    width: 72%;
+    margin-left: 49px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    background-color: rgb(14, 155, 120);
+}
+
+.sign{
+    text-align: center;
+    margin-left: -20px;
+    color: snow;
+}
+
+.forget{
+    margin-left: 70px;
+    color: blue;
+    font: outline;
+    text-underline-position: below;
+}
