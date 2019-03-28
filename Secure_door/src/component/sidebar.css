@@ -1,0 +1,144 @@
+.sidebar{
+    width: 15%;
+    height: 100%;
+    background-color: whitesmoke;
+    position: fixed;
+    background-image: url('./red.jpg');
+    visibility: visible;
+	-webkit-transition: -webkit-transform 0.5s;
+	transition: transform 0.5s;
+	-webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+}
+
+.arrow{
+    float: right;
+    width: 30px;
+    height: 30px;
+    transition: 0.4;
+    visibility: visible;
+	-webkit-transition: -webkit-transform 0.5s;
+	transition: transform 0.5s;
+	-webkit-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+    background-color: transparent;
+}
+
+.h4{
+    box-shadow: 0 2px;
+}
+
+.btn4 {
+    float: right;
+    background-color: whitesmoke;
+    border-color: transparent;
+    outline-color: transparent;
+}
+
+.notification{
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    float: left;
+}
+
+.notification1{
+    margin-left: 10px;
+    font-size: 15px;
+}
+
+
+.btn3{
+    background-color:transparent ;
+    font-size: 20px;
+    width: 100%;
+    padding: 15px;
+}
+
+
+.personal{
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    float: left;
+}
+
+.personal1{
+    font-size: 15px;
+}
+
+.btn5{
+    background-color:transparent ;
+    font-size: 20px;
+    width: 100%;
+    padding: 15px;
+}
+
+.schedule{
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    float: left;
+}
+
+.schedule1{
+    font-size: 15px;
+}
+
+.btn6{
+    background-color:transparent ;
+    font-size: 20px;
+    width: 100%;
+    padding: 15px;
+}
+
+.Configuration{
+    width: 30px;
+    height: 30px;
+    background-color: transparent;
+    float: left;
+}
+
+.Configuration1{
+    font-size: 15px;
+}
+
+.btn7{
+    background-color:transparent ;
+    font-size: 20px;
+    width: 100%;
+    padding: 15px;
+}
+
+.setting{
+    width: 30px;
+    height: 30px;
+    background-color: transparent; 
+    float: left;
+}
+
+.setting1{
+    font-size: 15px;
+}
+
+.btn8{
+    background-color:transparent ;
+    font-size: 20px;
+    width: 100%;
+    padding: 15px;
+}
+
+.inp2{
+    background-image: url('./search.png');
+    box-sizing: border-box;
+    border: 2px solid;
+    border-radius: 3px;
+    font-size: 15px;
+    width: 100%;
+    padding: 12px 20px 12px 40px;
+    background-size: 25px;
+    background-position: 10px 10px;
+    background-repeat: no-repeat;
+    background-color: transparent;
+    border-color: transparent;
+}

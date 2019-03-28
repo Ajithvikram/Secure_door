@@ -1,0 +1,57 @@
+
+.h3{
+    font-size: 25px;
+    background-color:white;
+    padding: 12px 20px;
+    box-shadow: 0 2px;
+}
+
+.b{
+    margin-left: 10px;
+}
+
+.menu{
+    width: 25px;
+    height: 25px;
+}
+
+.btn2{
+    background-color: transparent;
+    float: left;
+    transition: steps(1.2) step-end;
+    border-color: transparent;
+    outline-color: transparent;
+}
+
+.con{
+    width: 13px;
+    height: 13px;
+    margin-left: 400px;
+    font-size: 15px;
+}
+
+.con1{
+    margin-left: 5px;
+}
+
+.support{
+    width: 13px;
+    height: 13px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.support1{
+    margin-left: 5px;
+}
+
+.account{
+    width: 13px;
+    height: 13px;
+    margin-left: 20px;
+    font-size: 15px;
+}
+
+.account1{
+    margin-left: 5px;
+}
